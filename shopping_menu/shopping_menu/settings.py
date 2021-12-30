@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-yi2)iw&46!_0uw278wzswa@9n7+u2!dhvpimjm24vur%zxmpt7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost','.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost','https://taisei-shopping.herokuapp.com/']
 
 
 # Application definition
