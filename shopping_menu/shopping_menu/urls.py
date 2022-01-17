@@ -35,7 +35,7 @@ def callback(request):
         #購入開始
         if sent_message == '化粧水':
 
-            categories = Category.object.all()
+            categories = Category.objects.all()
 
             columns = []
 
